@@ -1470,8 +1470,8 @@
 		"favoredReligion": "Taoism",
 		"uniqueName": "智慧省",
 		"uniques": [
-        "牛逼了我的国", "[greatPerson] is earned [100000]% faster""哈皮呀","[-1000]% unhappiness from the number of cities""四次元首都","[100000000]% Production towards any buildings that already exist in the Capital ""好","Upon capturing a city, receive [10000000] times its [1000000] production as [civWideStat] immediately""好1","[0]% Culture cost of adopting new Policies""好2","+100000000000 Gold, +1000000000000 Science, +1000000000000 production [in all cities]"
-        ] 
+        "[greatPerson] is earned [100000]% faster","[-1000]% unhappiness from the number of cities","[100000000]% Production towards any buildings that already exist in the Capital ","Upon capturing a city, receive [10000000] times its [1000000] production as [civWideStat] immediately","[0]% Culture cost of adopting new Policies","+100000000000 Gold, +1000000000000 Science, +1000000000000 production [in all cities]"
+		],
 		"cities": ["北海","2b","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong","芜湖uuuuuuuuuuuuuuuuuuuuuuuu",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",

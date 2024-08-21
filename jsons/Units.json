@@ -1743,12 +1743,12 @@
 		"unitType": "Melee",
 		"movement": 1000,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "Can move after attacking", "Can pass through impassable tiles", "Can see over obstacles", "Uncapturable", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May withdraw before melee ([100]%)", "Amphibious", "May create improvements on water resources"],
-		"cost": 1000
-		"replaces":"Worker"
-		"uniqueTo":"史上无敌超级文明国度"
-		"range":"100"
-		"strength":"100000"
-		"rangedStrength":"100000"
+		"cost":1000,
+		"replaces":"Worker",
+		"uniqueTo":"史上无敌超级文明国度",
+		"range":"100",
+		"strength":"100000",
+		"rangedStrength":"100000",
 		"promotions":"文明"
 	}
 ]
